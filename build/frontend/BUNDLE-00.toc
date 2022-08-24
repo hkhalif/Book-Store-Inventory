@@ -1,0 +1,3 @@
+([('frontend',
+   '/Users/hedayakhalif/Desktop/Book Store/dist/frontend',
+   'EXECUTABLE')],)
